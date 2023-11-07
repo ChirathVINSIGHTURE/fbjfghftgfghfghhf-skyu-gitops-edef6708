@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: fbjfghftgfghfghhf-dev
+  labels:
+    environment-id: env_e869c8d6-34ab-44b7-ad4c-fd752c06980b
+    project-id: project_f5c9bb11-f827-49bf-a7c1-8daf74a0dc4e
+    project-name: fbjfghftgfghfghhf
+    environment-name: dev
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
